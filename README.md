@@ -14,7 +14,7 @@
 
 <!-- 3. icon list: https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,vue,nuxt,figma,python,go,docker,terraform,aws,gcp" />
+<img alt="my skills" height="64px" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,vue,nuxt,python,go,docker,aws" />
 <br>
 
 
