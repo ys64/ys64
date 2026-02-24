@@ -14,7 +14,7 @@
 
 <!-- 3. icon list: https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-All my skills are powered by AI. 🤖
+All my skills are powered by AI. 🤖 <br><br>
 <img alt="my skills" height="64px" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,vue,nuxt,python,go,docker,aws" />
 <br>
 
